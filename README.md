@@ -1,8 +1,8 @@
 # Termux devel-modules
 
 This repo includes multiple useful 
-libraries in it's package.json file for 
-npm, and it's composer.json file for 
+libraries in it's `package.json` file for 
+npm, and it's `composer.json` file for 
 composer.
 
 In termux run the following command
