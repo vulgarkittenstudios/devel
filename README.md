@@ -14,12 +14,13 @@ with this command
 
 `ln -s $PREFIX/etc/bash.bashrc ~/.bashrc`
 
-In the ~/.bashrc file add this..
+In the `~/.bashrc` file add this..
 
-export NODE_PATH=~/devel/node_modules
+`export NODE_PATH=~/devel/node_modules`
 
-Now modify the package.json and 
-composer.json files to reflect your vendor 
+Now modify the `package.json` and 
+`composer.json` files to reflect your 
+vendor 
 needs.
 
 now to get webpack to play nice with this 
@@ -32,7 +33,7 @@ now just install your packages
 `npm i`
 `composer install`
 
-To make use of composer globally you wi;l 
+To make use of composer globally you will 
 need to be familliar with the config 
 commands.
 
