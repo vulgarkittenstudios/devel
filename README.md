@@ -44,6 +44,6 @@ directory.
 `composer config vendor-dir ~/devel/vendor`
 
 to change it back ... "useful for 
-generating 'autoload.php' files" just 
+generating `autoload.php` files" just 
 replace 
-'~/devel/vendor' with 'vendor'
+`~/devel/vendor` with `vendor`
