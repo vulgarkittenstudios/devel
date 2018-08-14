@@ -1,0 +1,12 @@
+{
+
+    "name": "theallmightyjohn/global-packages",
+    "description": "Light weight php mvc framework",
+    "require": {
+        "duncan3dc/blade": "^4.2",
+        "ircmaxell/random-lib": "^1.2",
+        "illuminate/database": "^5.6",
+        "phpmailer/phpmailer": "^6.0",
+        "filp/whoops": "^2.2"
+    }
+}
