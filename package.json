@@ -25,6 +25,8 @@
     "gulp": "^3.9.1",
     "mini-css-extract-plugin": "^0.4.0",
     "postcss-loader": "^2.1.5",
+    "recursive-readdir": "^2.2.2",
+    "require-dir": "^1.0.0",
     "sass": "^1.10.1",
     "style-loader": "^0.21.0",
     "webpack": "^4.11.0",
@@ -50,6 +52,7 @@
     "popper.js": "^1.14.3",
     "shortid": "^2.2.8",
     "snapjs": "^1.2.1",
-    "tiny-ecs": "^2.0.0"
+    "tiny-ecs": "^2.0.0",
+    "webpack-cli": "^3.1.0"
   }
 }
